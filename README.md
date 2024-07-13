@@ -2,7 +2,6 @@ my name is meerah
 
 i am new to programming
 currently learning c and python 
-
 reading: the c programming language
 course: harvard cs50
 
