@@ -1,9 +1,9 @@
 my name is meerah
 
-i am new to programming
-currently learning c and python 
-reading: the c programming language
-course: harvard cs50
+i am new to programming \n
+currently learning c and python \n
+reading: the c programming language \n
+course: harvard cs50\n 
 
 open to advice/feedback 
 
