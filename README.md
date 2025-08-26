@@ -1,5 +1,6 @@
-/ meerah / 
-> learning to lean 
+
+meerah. learning to learn. 
+
 > currently doing: cs61a 
 > done: cs50
 
